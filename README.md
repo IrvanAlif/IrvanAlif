@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hai, saya seorang mahasiswa Sistem Informasi dengan ketertarikan pada pengembangan web dan dunia teknologi. Saat ini saya fokus meningkatkan keterampilan melalui pembuatan proyek dan eksplorasi teknologi baru.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/irvanalif19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/irvan-alif-046673331) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Irvan-Alif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Irvanalif0905@gmail.com) 
 
